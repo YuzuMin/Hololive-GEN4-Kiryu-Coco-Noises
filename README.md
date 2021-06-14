@@ -26,9 +26,9 @@ GNU General Public License V3
 * coconoise5  Oh no she said it! 
 * coconoise6  AH!
 * coconoise7  PANIK!
-* coconoise8
-* coconoise9
-* coconoise10
+* coconoise8  Ara ara motherfucker
+* coconoise9  Yoroshiku onegaishimasu
+* coconoise10 
 * coconoise11
 * coconoise12
 * coconoise13
