@@ -19,7 +19,7 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.coconois
 GNU General Public License V3
 
 # List of Noises
-* coconoise1
+* coconoise1 Taiwan
 * coconoise2
 * coconoise3
 * coconoise4
