@@ -25,7 +25,7 @@ GNU General Public License V3
 * coconoise4  Oh no!
 * coconoise5  Oh no she said it! 
 * coconoise6  AH!
-* coconoise7
+* coconoise7  PANIK!
 * coconoise8
 * coconoise9
 * coconoise10
