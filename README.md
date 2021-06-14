@@ -19,12 +19,12 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.coconois
 GNU General Public License V3
 
 # List of Noises
-* coconoise1 Taiwan
-* coconoise2 Eating Mike Tyson's ass! 
-* coconoise3
-* coconoise4
-* coconoise5
-* coconoise6
+* coconoise1  Taiwan
+* coconoise2  Eating Mike Tyson's ass! 
+* coconoise3  Motherfucker
+* coconoise4  Oh no!
+* coconoise5  Oh no she said it! 
+* coconoise6  AH!
 * coconoise7
 * coconoise8
 * coconoise9
