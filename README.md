@@ -20,7 +20,7 @@ GNU General Public License V3
 
 # List of Noises
 * coconoise1 Taiwan
-* coconoise2
+* coconoise2 Eating Mike Tyson's ass! 
 * coconoise3
 * coconoise4
 * coconoise5
