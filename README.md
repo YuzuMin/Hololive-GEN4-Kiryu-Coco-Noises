@@ -29,8 +29,8 @@ GNU General Public License V3
 * coconoise8  Ara ara motherfucker
 * coconoise9  Yoroshiku onegaishimasu
 * coconoise10 Next meme!
-* coconoise11
-* coconoise12
+* coconoise11 Hohohohoho
+* coconoise12 Hai!
 * coconoise13
 * coconoise14
 * coconoise15
