@@ -32,8 +32,8 @@ GNU General Public License V3
 * coconoise11 Hohohohoho
 * coconoise12 Hai!
 * coconoise13 OK
-* coconoise14
-* coconoise15
+* coconoise14 Uh en
+* coconoise15 Nyahallo
 * coconoise16
 * coconoise17
 * coconoise18
