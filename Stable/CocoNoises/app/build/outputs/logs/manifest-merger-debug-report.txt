@@ -1,0 +1,314 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f021ce90e82b48edbd943b40aa1ef06d\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\efa5a85f7db6bf415261d6059a28bee1\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\8196d3e661e041fc7dc15ecbc4d461f4\jetified-butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\24e82aba340b759240f09c8ab46deb1a\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e74634e20d1ec32457b9cc4f401ffea1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f3965b4f5235273164a4cb8d86e6a3b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dc317e2e041a6265d3ed77886b03b3df\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6cc585ddf8b59ce4011a7715093a1de1\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ca65e356d1c9867f9600266c00461428\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9726f16beb884e69c8392eb74d42aa95\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c1aebde9b5e3eea0ffb865c398d6e87f\customview-1.1.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2b34ee8a43eb2965f51e618654188afe\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\96b38c9fe418d8e2d99c0cfb3e096431\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b6b6e0794d12e60d779a743b0865786d\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3c88f19f14aa8f15dd275dbaec09f63d\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dd8ebd6c98a813db488cb9632dc68cb4\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9b319768499df63b1d0933a3c55ff3e7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d760e129cd5755c44b98604dccdbfbf4\navigation-common-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b754b2dac55e2d093f3d16fae3e2b72a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f050f7f6c6c3cfd1b005dbb5aa8afc3\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\227e47d95384a46de0f7ef02fe9619e6\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2a378d3baacb6241cc32bc4e8264339a\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\644567d122746ae95b6522d27232d273\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e61f3b3a2699d2c73b6d814c8ed40d8c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6a8e87f523c55e5b29d9c4a3f69e8c47\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07966c8c4706ffeaf638d555f4c86fb0\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\41c41c2fbc05e9a19fa443c48f799c3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:9:5-57:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\efa5a85f7db6bf415261d6059a28bee1\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\efa5a85f7db6bf415261d6059a28bee1\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:10:9-64
+activity#com.yuzumin.amelianoises.MainActivity
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:17:9-19:51
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:18:13-65
+activity#com.yuzumin.amelianoises.Splash
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:21:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.yuzumin.amelianoises.LegalInfo
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:31:13-62
+activity#com.yuzumin.amelianoises.Reader
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:34:13-59
+activity#com.yuzumin.amelianoises.AppMenu
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:37:13-60
+activity#com.yuzumin.amelianoises.activities.AlarmActivity
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:40:13-77
+activity#com.yuzumin.amelianoises.ClickerSettings
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:43:13-68
+activity#com.yuzumin.amelianoises.activities.RingActivity
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:46:13-76
+receiver#com.yuzumin.amelianoises.broadcastreceiver.AlarmBroadcastReceiver
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:19-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:25-76
+service#com.yuzumin.amelianoises.service.AlarmService
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:9-81
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:18-78
+service#com.yuzumin.amelianoises.service.RescheduleAlarmsService
+ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:9-92
+	android:name
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:18-89
+uses-sdk
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f021ce90e82b48edbd943b40aa1ef06d\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f021ce90e82b48edbd943b40aa1ef06d\navigation-fragment-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\efa5a85f7db6bf415261d6059a28bee1\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\efa5a85f7db6bf415261d6059a28bee1\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\8196d3e661e041fc7dc15ecbc4d461f4\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\8196d3e661e041fc7dc15ecbc4d461f4\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\24e82aba340b759240f09c8ab46deb1a\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\24e82aba340b759240f09c8ab46deb1a\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e74634e20d1ec32457b9cc4f401ffea1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e74634e20d1ec32457b9cc4f401ffea1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f3965b4f5235273164a4cb8d86e6a3b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f3965b4f5235273164a4cb8d86e6a3b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dc317e2e041a6265d3ed77886b03b3df\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dc317e2e041a6265d3ed77886b03b3df\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6cc585ddf8b59ce4011a7715093a1de1\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0-alpha04] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6cc585ddf8b59ce4011a7715093a1de1\drawerlayout-1.1.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ca65e356d1c9867f9600266c00461428\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ca65e356d1c9867f9600266c00461428\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9726f16beb884e69c8392eb74d42aa95\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9726f16beb884e69c8392eb74d42aa95\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c1aebde9b5e3eea0ffb865c398d6e87f\customview-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c1aebde9b5e3eea0ffb865c398d6e87f\customview-1.1.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2b34ee8a43eb2965f51e618654188afe\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2b34ee8a43eb2965f51e618654188afe\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\96b38c9fe418d8e2d99c0cfb3e096431\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\96b38c9fe418d8e2d99c0cfb3e096431\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b6b6e0794d12e60d779a743b0865786d\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b6b6e0794d12e60d779a743b0865786d\navigation-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3c88f19f14aa8f15dd275dbaec09f63d\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3c88f19f14aa8f15dd275dbaec09f63d\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dd8ebd6c98a813db488cb9632dc68cb4\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dd8ebd6c98a813db488cb9632dc68cb4\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9b319768499df63b1d0933a3c55ff3e7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9b319768499df63b1d0933a3c55ff3e7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d760e129cd5755c44b98604dccdbfbf4\navigation-common-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d760e129cd5755c44b98604dccdbfbf4\navigation-common-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\f9976ae113f170d60bfcc789044f411d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b754b2dac55e2d093f3d16fae3e2b72a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\b754b2dac55e2d093f3d16fae3e2b72a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f050f7f6c6c3cfd1b005dbb5aa8afc3\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\7f050f7f6c6c3cfd1b005dbb5aa8afc3\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\227e47d95384a46de0f7ef02fe9619e6\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\227e47d95384a46de0f7ef02fe9619e6\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2a378d3baacb6241cc32bc4e8264339a\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\2a378d3baacb6241cc32bc4e8264339a\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\644567d122746ae95b6522d27232d273\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\644567d122746ae95b6522d27232d273\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\ac846bd1991b3727d0d9b0a2719ca5c8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e61f3b3a2699d2c73b6d814c8ed40d8c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\e61f3b3a2699d2c73b6d814c8ed40d8c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\46cb1a4d108400fae8aa890994cc503d\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\4be9d11bba6a5edbd5817409ba34d404\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6a8e87f523c55e5b29d9c4a3f69e8c47\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\6a8e87f523c55e5b29d9c4a3f69e8c47\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07966c8c4706ffeaf638d555f4c86fb0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07966c8c4706ffeaf638d555f4c86fb0\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\41c41c2fbc05e9a19fa443c48f799c3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\41c41c2fbc05e9a19fa443c48f799c3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

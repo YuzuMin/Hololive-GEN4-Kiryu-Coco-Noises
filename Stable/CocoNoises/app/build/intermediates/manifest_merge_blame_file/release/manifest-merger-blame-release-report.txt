@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yuzumin.amelianoises"
+4    android:versionCode="1"
+5    android:versionName="2021.6 REV-1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:5-77
+12-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:5-66
+13-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:22-63
+14
+15    <application
+15-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:9:5-57:19
+16        android:name="com.yuzumin.amelianoises.application.App"
+16-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:10:9-64
+17        android:allowBackup="true"
+17-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:15:9-35
+23        android:theme="@style/AppTheme" >
+23-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:16:9-40
+24        <activity
+24-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:17:9-19:51
+25            android:name="com.yuzumin.amelianoises.MainActivity"
+25-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:18:13-65
+26            android:screenOrientation="portrait" />
+26-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:19:13-49
+27        <activity
+27-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:20:9-28:20
+28            android:name="com.yuzumin.amelianoises.Splash"
+28-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:21:13-59
+29            android:screenOrientation="portrait" >
+29-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:22:13-49
+30            <intent-filter>
+30-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:17-69
+31-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:17-77
+33-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:30:9-32:52
+37            android:name="com.yuzumin.amelianoises.LegalInfo"
+37-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:31:13-62
+38            android:screenOrientation="portrait" />
+38-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:32:13-49
+39        <activity
+39-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:33:9-35:52
+40            android:name="com.yuzumin.amelianoises.Reader"
+40-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:34:13-59
+41            android:screenOrientation="portrait" />
+41-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:35:13-49
+42        <activity
+42-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:36:9-38:52
+43            android:name="com.yuzumin.amelianoises.AppMenu"
+43-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:37:13-60
+44            android:screenOrientation="portrait" />
+44-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:38:13-49
+45        <activity
+45-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:39:9-41:52
+46            android:name="com.yuzumin.amelianoises.activities.AlarmActivity"
+46-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:40:13-77
+47            android:screenOrientation="portrait" />
+47-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:41:13-49
+48        <activity
+48-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:42:9-44:52
+49            android:name="com.yuzumin.amelianoises.ClickerSettings"
+49-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:43:13-68
+50            android:screenOrientation="portrait" />
+50-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:44:13-49
+51        <activity
+51-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:45:9-47:52
+52            android:name="com.yuzumin.amelianoises.activities.RingActivity"
+52-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:46:13-76
+53            android:screenOrientation="portrait" />
+53-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:47:13-49
+54
+55        <receiver android:name="com.yuzumin.amelianoises.broadcastreceiver.AlarmBroadcastReceiver" >
+55-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:9-53:20
+55-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:19-99
+56            <intent-filter>
+56-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:50:13-52:29
+57                <action android:name="android.intent.action.BOOT_COMPLETED" />
+57-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:17-79
+57-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:25-76
+58            </intent-filter>
+59        </receiver>
+60
+61        <service android:name="com.yuzumin.amelianoises.service.AlarmService" />
+61-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:9-81
+61-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:18-78
+62        <service android:name="com.yuzumin.amelianoises.service.RescheduleAlarmsService" />
+62-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:9-92
+62-->D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:18-89
+63        <service
+63-->[androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+64            android:name="androidx.room.MultiInstanceInvalidationService"
+64-->[androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+65            android:exported="false" />
+65-->[androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+66
+67        <provider
+67-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+68            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+69            android:authorities="com.yuzumin.amelianoises.lifecycle-process"
+69-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+70            android:exported="false"
+70-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+71            android:multiprocess="true" />
+71-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+72    </application>
+73
+74</manifest>
