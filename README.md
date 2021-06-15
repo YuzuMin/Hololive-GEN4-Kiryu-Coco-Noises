@@ -46,8 +46,8 @@ GNU General Public License V3
 * coconoise25 Together
 * coconoise26 Free America together
 * coconoise27 Yes!
-* coconoise28
-* coconoise29
+* coconoise28 Freedom ready go?
+* coconoise29 Let it go (feat. Miko)
 * coconoise30
 * coconoise31
 * coconoise32
