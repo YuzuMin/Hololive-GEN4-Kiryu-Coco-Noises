@@ -34,11 +34,11 @@ GNU General Public License V3
 * coconoise13 OK
 * coconoise14 Uh en
 * coconoise15 Nyahallo
-* coconoise16
-* coconoise17
-* coconoise18
-* coconoise19
-* coconoise20
+* coconoise16 Oh
+* coconoise17 Call me Coco
+* coconoise18 Sakura Miko
+* coconoise19 Um
+* coconoise20 Yeah x5
 * coconoise21
 * coconoise22
 * coconoise23
