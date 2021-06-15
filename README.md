@@ -41,8 +41,8 @@ GNU General Public License V3
 * coconoise20 Yeah x5
 * coconoise21 Freedom lady
 * coconoise22 Your name is freedom?
-* coconoise23
-* coconoise24
+* coconoise23 Freedom Sakura Miko
+* coconoise24 Morgan Freeman
 * coconoise25
 * coconoise26
 * coconoise27
