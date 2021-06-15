@@ -60,13 +60,12 @@ GNU General Public License V3
 * coconoise39 Bibiby
 * coconoise40 Pain peko
 * coconoise41 Hic
-* coconoise42
-* coconoise43
-* coconoise44
-* coconoise45
+* coconoise42 *Dragon laugh*
+* coconoise43 Wha! What is this?
+* coconoise44 This is not good x3
+* coconoise45 Arigathanks minny'all I love you all
 * coconoise46 We don't wanna hear that shit
 * coconoise47 Arigatou gozaimasu
 * coconoise48 Yagoo!
 * coconoise49 Dadadadadadada
 * coconoise50 Good Morning Motherfuckers
-* coconoise51 Arigathanks minny'all I love you all
