@@ -58,14 +58,15 @@ GNU General Public License V3
 * coconoise37 Ok ok I know the place
 * coconoise38 Liberty
 * coconoise39 Bibiby
-* coconoise40
-* coconoise41
+* coconoise40 Pain peko
+* coconoise41 Hic
 * coconoise42
 * coconoise43
 * coconoise44
 * coconoise45
-* coconoise46
-* coconoise47
+* coconoise46 We don't wanna hear that shit
+* coconoise47 Arigatou gozaimasu
 * coconoise48 Yagoo!
 * coconoise49 Dadadadadadada
 * coconoise50 Good Morning Motherfuckers
+* coconoise51 Arigathanks minny'all I love you all
