@@ -52,12 +52,12 @@ GNU General Public License V3
 * coconoise31 Doko
 * coconoise32 Freedom lady Doko
 * coconoise33 Uhh
-* coconoise34
-* coconoise35
-* coconoise36
-* coconoise37
-* coconoise38
-* coconoise39
+* coconoise34 Free x3
+* coconoise35 Statue of liberty?
+* coconoise36 Ohhhh!
+* coconoise37 Ok ok I know the place
+* coconoise38 Liberty
+* coconoise39 Bibiby
 * coconoise40
 * coconoise41
 * coconoise42
