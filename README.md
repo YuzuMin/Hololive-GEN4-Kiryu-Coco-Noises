@@ -44,8 +44,8 @@ GNU General Public License V3
 * coconoise23 Freedom Sakura Miko
 * coconoise24 Morgan Freeman
 * coconoise25 Together
-* coconoise26
-* coconoise27
+* coconoise26 Free America together
+* coconoise27 Yes!
 * coconoise28
 * coconoise29
 * coconoise30
