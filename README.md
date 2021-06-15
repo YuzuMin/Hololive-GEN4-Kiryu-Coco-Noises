@@ -66,6 +66,6 @@ GNU General Public License V3
 * coconoise45
 * coconoise46
 * coconoise47
-* coconoise48
-* coconoise49
-* coconoise50
+* coconoise48 Yagoo!
+* coconoise49 Dadadadadadada
+* coconoise50 Good Morning Motherfuckers
