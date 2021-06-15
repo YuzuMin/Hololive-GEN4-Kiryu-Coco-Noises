@@ -49,9 +49,9 @@ GNU General Public License V3
 * coconoise28 Freedom ready go?
 * coconoise29 Let it go (feat. Miko)
 * coconoise30 Frozen?
-* coconoise31
-* coconoise32
-* coconoise33
+* coconoise31 Doko
+* coconoise32 Freedom lady Doko
+* coconoise33 Uhh
 * coconoise34
 * coconoise35
 * coconoise36
