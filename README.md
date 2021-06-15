@@ -39,7 +39,7 @@ GNU General Public License V3
 * coconoise18 Sakura Miko
 * coconoise19 Um
 * coconoise20 Yeah x5
-* coconoise21
+* coconoise21 Freedom lady
 * coconoise22
 * coconoise23
 * coconoise24
