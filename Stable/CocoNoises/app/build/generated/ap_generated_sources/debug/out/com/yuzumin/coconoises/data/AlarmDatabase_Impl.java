@@ -3,11 +3,17 @@ package com.yuzumin.coconoises.data;
 import androidx.room.DatabaseConfiguration;
 import androidx.room.InvalidationTracker;
 import androidx.room.RoomOpenHelper;
+import androidx.room.RoomOpenHelper.Delegate;
+import androidx.room.RoomOpenHelper.ValidationResult;
 import androidx.room.util.DBUtil;
 import androidx.room.util.TableInfo;
+import androidx.room.util.TableInfo.Column;
+import androidx.room.util.TableInfo.ForeignKey;
+import androidx.room.util.TableInfo.Index;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 import androidx.sqlite.db.SupportSQLiteOpenHelper;
-
+import androidx.sqlite.db.SupportSQLiteOpenHelper.Callback;
+import androidx.sqlite.db.SupportSQLiteOpenHelper.Configuration;
 import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
@@ -90,7 +96,7 @@ public final class AlarmDatabase_Impl extends AlarmDatabase {
         final TableInfo _infoAlarmTable = new TableInfo("alarm_table", _columnsAlarmTable, _foreignKeysAlarmTable, _indicesAlarmTable);
         final TableInfo _existingAlarmTable = TableInfo.read(_db, "alarm_table");
         if (! _infoAlarmTable.equals(_existingAlarmTable)) {
-          return new RoomOpenHelper.ValidationResult(false, "alarm_table(com.yuzumin.amelianoises.data.Alarm).\n"
+          return new RoomOpenHelper.ValidationResult(false, "alarm_table(com.yuzumin.coconoises.data.Alarm).\n"
                   + " Expected:\n" + _infoAlarmTable + "\n"
                   + " Found:\n" + _existingAlarmTable);
         }
