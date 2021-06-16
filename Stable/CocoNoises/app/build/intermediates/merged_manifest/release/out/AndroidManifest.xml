@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yuzumin.amelianoises"
+    package="com.yuzumin.coconoises"
     android:versionCode="1"
     android:versionName="2021.6 REV-1" >
 
@@ -13,7 +13,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name="com.yuzumin.amelianoises.application.App"
+        android:name="com.yuzumin.coconoises.application.App"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
@@ -22,10 +22,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.yuzumin.amelianoises.MainActivity"
+            android:name="com.yuzumin.coconoises.MainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.Splash"
+            android:name="com.yuzumin.coconoises.Splash"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,39 +34,39 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.yuzumin.amelianoises.LegalInfo"
+            android:name="com.yuzumin.coconoises.LegalInfo"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.Reader"
+            android:name="com.yuzumin.coconoises.Reader"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.AppMenu"
+            android:name="com.yuzumin.coconoises.AppMenu"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.activities.AlarmActivity"
+            android:name="com.yuzumin.coconoises.activities.AlarmActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.ClickerSettings"
+            android:name="com.yuzumin.coconoises.ClickerSettings"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.amelianoises.activities.RingActivity"
+            android:name="com.yuzumin.coconoises.activities.RingActivity"
             android:screenOrientation="portrait" />
 
-        <receiver android:name="com.yuzumin.amelianoises.broadcastreceiver.AlarmBroadcastReceiver" >
+        <receiver android:name="com.yuzumin.coconoises.broadcastreceiver.AlarmBroadcastReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
 
-        <service android:name="com.yuzumin.amelianoises.service.AlarmService" />
-        <service android:name="com.yuzumin.amelianoises.service.RescheduleAlarmsService" />
+        <service android:name="com.yuzumin.coconoises.service.AlarmService" />
+        <service android:name="com.yuzumin.coconoises.service.RescheduleAlarmsService" />
         <service
             android:name="androidx.room.MultiInstanceInvalidationService"
             android:exported="false" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.yuzumin.amelianoises.lifecycle-process"
+            android:authorities="com.yuzumin.coconoises.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

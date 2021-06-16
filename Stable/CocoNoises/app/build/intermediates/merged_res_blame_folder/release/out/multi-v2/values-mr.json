@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GIT\\VTUBER_NOISES\\HololiveEN-GEN1-Watson-Amelia-Noises\\Stable\\AmeliaNoises\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\exube\\.gradle\\caches\\transforms-2\\files-2.1\\dce699533c4fcdc660e71564e844b3fd\\core-1.3.0-alpha02\\res\\values-mr\\values-mr.xml",
