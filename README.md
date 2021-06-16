@@ -19,7 +19,7 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.coconois
 GNU General Public License V3
 
 # List of Noises
-* coconoise1  Taiwan
+* coconoise1  Yagoo!
 * coconoise2  Eating Mike Tyson's ass! 
 * coconoise3  Motherfucker
 * coconoise4  Oh no!
@@ -66,6 +66,6 @@ GNU General Public License V3
 * coconoise45 Arigathanks minny'all I love you all
 * coconoise46 We don't wanna hear that shit
 * coconoise47 Arigatou gozaimasu
-* coconoise48 Yagoo!
+* coconoise48 Taiwan
 * coconoise49 Dadadadadadada
 * coconoise50 Good Morning Motherfuckers
