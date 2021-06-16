@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -51,37 +51,37 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\exube\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\07966c8c4706ffeaf638d555f4c86fb0\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\41c41c2fbc05e9a19fa443c48f799c3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:5-77
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:6:5-77
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:6:22-74
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:6:22-74
 uses-permission#android.permission.VIBRATE
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:7:22-63
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:7:22-63
 application
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:9:5-57:19
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:9:5-57:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -99,99 +99,99 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ex
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0-alpha02] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\dce699533c4fcdc660e71564e844b3fd\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:10:9-64
-activity#com.yuzumin.amelianoises.MainActivity
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:17:9-19:51
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:10:9-62
+activity#com.yuzumin.coconoises.MainActivity
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:17:9-19:51
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:19:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:18:13-65
-activity#com.yuzumin.amelianoises.Splash
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:20:9-28:20
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:18:13-63
+activity#com.yuzumin.coconoises.Splash
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:22:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:22:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:21:13-59
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:21:13-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:26:27-74
-activity#com.yuzumin.amelianoises.LegalInfo
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:30:9-32:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.yuzumin.coconoises.LegalInfo
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:30:9-32:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:31:13-62
-activity#com.yuzumin.amelianoises.Reader
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:33:9-35:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:31:13-60
+activity#com.yuzumin.coconoises.Reader
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:33:9-35:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:34:13-59
-activity#com.yuzumin.amelianoises.AppMenu
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:36:9-38:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:34:13-57
+activity#com.yuzumin.coconoises.AppMenu
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:36:9-38:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:37:13-60
-activity#com.yuzumin.amelianoises.activities.AlarmActivity
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:39:9-41:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:37:13-58
+activity#com.yuzumin.coconoises.activities.AlarmActivity
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:39:9-41:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:40:13-77
-activity#com.yuzumin.amelianoises.ClickerSettings
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:42:9-44:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:40:13-75
+activity#com.yuzumin.coconoises.ClickerSettings
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:42:9-44:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:43:13-68
-activity#com.yuzumin.amelianoises.activities.RingActivity
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:45:9-47:52
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:43:13-66
+activity#com.yuzumin.coconoises.activities.RingActivity
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:45:9-47:52
 	android:screenOrientation
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:47:13-49
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:47:13-49
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:46:13-76
-receiver#com.yuzumin.amelianoises.broadcastreceiver.AlarmBroadcastReceiver
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:9-53:20
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:46:13-74
+receiver#com.yuzumin.coconoises.broadcastreceiver.AlarmBroadcastReceiver
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:49:9-53:20
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:49:19-99
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:49:19-97
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:50:13-52:29
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:50:13-52:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:17-79
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:51:17-79
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:51:25-76
-service#com.yuzumin.amelianoises.service.AlarmService
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:9-81
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:51:25-76
+service#com.yuzumin.coconoises.service.AlarmService
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:55:9-79
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:55:18-78
-service#com.yuzumin.amelianoises.service.RescheduleAlarmsService
-ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:9-92
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:55:18-76
+service#com.yuzumin.coconoises.service.RescheduleAlarmsService
+ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:56:9-90
 	android:name
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml:56:18-89
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml:56:18-87
 uses-sdk
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.0-alpha03] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\c93279a1cbad8efd7dc1600adb692c30\navigation-ui-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\3687f3b99e8403f2ac71fc13522840ff\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -286,16 +286,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\41c41c2fbc05e9a19fa443c48f799c3d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		ADDED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GIT\VTUBER_NOISES\HololiveEN-GEN1-Watson-Amelia-Noises\Stable\AmeliaNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIT\VTUBER_NOISES\Hololive-GEN4-Kiryu-Coco-Noises\Stable\CocoNoises\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\exube\.gradle\caches\transforms-2\files-2.1\df98c1bc1befe27f097cf1e826921f3f\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
 	android:exported

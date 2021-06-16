@@ -27,12 +27,12 @@
             android:textSize="45dp" />
 
         <ImageView
-            android:padding="60dp"
-            android:layout_weight="1"
             android:id="@+id/activity_ring_clock"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            app:srcCompat="@drawable/amelia0" />
+            android:layout_weight="1"
+            android:padding="60dp"
+            app:srcCompat="@drawable/coco0" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -50,14 +50,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
                 android:text="Dismiss" >
+
                 <TextView
-                    android:layout_gravity="center"
-                    android:textColor="@color/porcelain"
-                    android:textAlignment="center"
-                    android:textSize="20dp"
-                    android:text="Dismiss"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"/>
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Dismiss"
+                    android:textAlignment="center"
+                    android:textColor="@color/blvck"
+                    android:textSize="20dp" />
             </androidx.cardview.widget.CardView>
 
             <Space
@@ -73,7 +74,7 @@
                 android:layout_height="40dp">
                 <TextView
                     android:layout_gravity="center"
-                    android:textColor="@color/porcelain"
+                    android:textColor="@color/blvck"
                     android:textAlignment="center"
                     android:textSize="20dp"
                     android:text="Snooze"

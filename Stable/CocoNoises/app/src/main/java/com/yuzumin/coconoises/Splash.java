@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.VideoView;
@@ -15,7 +16,6 @@ public class Splash extends AppCompatActivity {
 
     boolean isLaunched;
     ConstraintLayout Layout;
-    VideoView Splash;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,23 +23,10 @@ public class Splash extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         getSupportActionBar().hide();
         Layout=findViewById(R.id.layout);
-        Splash=findViewById(R.id.SplashVideo);
         isLaunched=false;
 
 
-        Uri video= Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.splashscreen);
-        Splash.setVideoURI(video);
 
-        Splash.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-            @Override
-            public void onCompletion(MediaPlayer mp) {
-                if(!isLaunched){
-                    isLaunched=true;
-                    startActivity(new Intent(Splash.this, MainActivity.class));
-                    finish();
-                }
-            }
-        });
 
         Layout.setOnTouchListener(new View.OnTouchListener() {
             @Override
@@ -54,7 +41,31 @@ public class Splash extends AppCompatActivity {
         });
 
 
-        Splash.start();
+        Thread timer= new Thread()
+        {
+            public void run()
+            {
+                try
+                {
+                    //Display for 3 seconds
+                    sleep(1500);
+                }
+                catch (InterruptedException e)
+                {
+                    // TODO: handle exception
+                    e.printStackTrace();
+                }
+                finally
+                {
+                    if(!isLaunched){
+                        isLaunched=true;
+                        startActivity(new Intent(Splash.this, MainActivity.class));
+                        finish();
+                    }
+                }
+            }
+        };
+        timer.start();
 
     }
 }

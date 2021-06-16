@@ -19,16 +19,14 @@ public class ClickerSettings extends AppCompatActivity {
 
     ImageView back_btn;
 
-    TableRow AmeliaIMG0Row;
-    TableRow AmeliaIMG1Row;
-    TableRow AmeliaIMG2Row;
-    TableRow AmeliaIMG3Row;
-    TableRow AmeliaIMG4Row;
-    RadioButton AmeliaIMG0;
-    RadioButton AmeliaIMG1;
-    RadioButton AmeliaIMG2;
-    RadioButton AmeliaIMG3;
-    RadioButton AmeliaIMG4;
+    TableRow CocoIMG0Row;
+    TableRow CocoIMG1Row;
+    TableRow CocoIMG2Row;
+    TableRow CocoIMG3Row;
+    RadioButton CocoIMG0;
+    RadioButton CocoIMG1;
+    RadioButton CocoIMG2;
+    RadioButton CocoIMG3;
 
     Integer charavalue;
 
@@ -90,16 +88,6 @@ public class ClickerSettings extends AppCompatActivity {
     Switch switch50;
     Switch switch51;
     Switch switch52;
-    Switch switch53;
-    Switch switch54;
-    Switch switch55;
-    Switch switch56;
-    Switch switch57;
-    Switch switch58;
-    Switch switch59;
-    Switch switch60;
-    Switch switch61;
-    Switch switch62;
 
     LinearLayout SoundSettingContainer;
 
@@ -124,156 +112,118 @@ public class ClickerSettings extends AppCompatActivity {
         });
 
 
-        AmeliaIMG0=findViewById(R.id.amelia0_img);
-        AmeliaIMG0Row=findViewById(R.id.amelia0_img_row);
-        AmeliaIMG1=findViewById(R.id.amelia1_img);
-        AmeliaIMG1Row=findViewById(R.id.amelia1_img_row);
-        AmeliaIMG2=findViewById(R.id.amelia2_img);
-        AmeliaIMG2Row=findViewById(R.id.amelia2_img_row);
-        AmeliaIMG3=findViewById(R.id.amelia3_img);
-        AmeliaIMG3Row=findViewById(R.id.amelia3_img_row);
-        AmeliaIMG4=findViewById(R.id.amelia4_img);
-        AmeliaIMG4Row=findViewById(R.id.amelia4_img_row);
+        CocoIMG0=findViewById(R.id.coco0_img);
+        CocoIMG0Row=findViewById(R.id.coco0_img_row);
+        CocoIMG1=findViewById(R.id.coco1_img);
+        CocoIMG1Row=findViewById(R.id.coco1_img_row);
+        CocoIMG2=findViewById(R.id.coco2_img);
+        CocoIMG2Row=findViewById(R.id.coco2_img_row);
+        CocoIMG3=findViewById(R.id.coco3_img);
+        CocoIMG3Row=findViewById(R.id.coco3_img_row);
 
 
-        AmeliaIMG0.setOnClickListener(new View.OnClickListener() {
+        CocoIMG0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(true);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(true);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG0Row.setOnClickListener(new View.OnClickListener() {
+        CocoIMG0Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(true);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(true);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG1.setOnClickListener(new View.OnClickListener() {
+        CocoIMG1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(true);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(true);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG1Row.setOnClickListener(new View.OnClickListener() {
+        CocoIMG1Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(true);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(true);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG2.setOnClickListener(new View.OnClickListener() {
+        CocoIMG2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(true);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(true);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG2Row.setOnClickListener(new View.OnClickListener() {
+        CocoIMG2Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(true);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(true);
+                CocoIMG3.setChecked(false);
             }
         });
-        AmeliaIMG3.setOnClickListener(new View.OnClickListener() {
+        CocoIMG3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(true);
-                AmeliaIMG4.setChecked(false);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(true);
             }
         });
-        AmeliaIMG3Row.setOnClickListener(new View.OnClickListener() {
+        CocoIMG3Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(true);
-                AmeliaIMG4.setChecked(false);
-            }
-        });
-        AmeliaIMG4.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=4;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(true);
-            }
-        });
-        AmeliaIMG4Row.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                charavalue=4;
-                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
-                SoundSettingsEditor.putInt("CharaValue",charavalue);
-                SoundSettingsEditor.apply();
-                AmeliaIMG0.setChecked(false);
-                AmeliaIMG1.setChecked(false);
-                AmeliaIMG2.setChecked(false);
-                AmeliaIMG3.setChecked(false);
-                AmeliaIMG4.setChecked(true);
+                CocoIMG0.setChecked(false);
+                CocoIMG1.setChecked(false);
+                CocoIMG2.setChecked(false);
+                CocoIMG3.setChecked(true);
             }
         });
 
@@ -541,55 +491,6 @@ public class ClickerSettings extends AppCompatActivity {
                     SoundSettingsEditor.apply();
                     switch52.setChecked(false);
 
-                    SoundSettingsEditor =getSharedPreferences("save53",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value53",false);
-                    SoundSettingsEditor.apply();
-                    switch53.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save54",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value54",false);
-                    SoundSettingsEditor.apply();
-                    switch54.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save55",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value55",false);
-                    SoundSettingsEditor.apply();
-                    switch55.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save56",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value56",false);
-                    SoundSettingsEditor.apply();
-                    switch56.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save57",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value57",false);
-                    SoundSettingsEditor.apply();
-                    switch57.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save58",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value58",false);
-                    SoundSettingsEditor.apply();
-                    switch58.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save59",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value59",false);
-                    SoundSettingsEditor.apply();
-                    switch59.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save60",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value60",false);
-                    SoundSettingsEditor.apply();
-                    switch60.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save61",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value61",false);
-                    SoundSettingsEditor.apply();
-                    switch61.setChecked(false);
-
-                    SoundSettingsEditor =getSharedPreferences("save62",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value62",false);
-                    SoundSettingsEditor.apply();
-                    switch62.setChecked(false);
 
                 }else{
 
@@ -842,56 +743,6 @@ public class ClickerSettings extends AppCompatActivity {
                     SoundSettingsEditor.putBoolean("value52",true);
                     SoundSettingsEditor.apply();
                     switch52.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save53",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value53",true);
-                    SoundSettingsEditor.apply();
-                    switch53.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save54",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value54",true);
-                    SoundSettingsEditor.apply();
-                    switch54.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save55",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value55",true);
-                    SoundSettingsEditor.apply();
-                    switch55.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save56",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value56",true);
-                    SoundSettingsEditor.apply();
-                    switch56.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save57",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value57",true);
-                    SoundSettingsEditor.apply();
-                    switch57.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save58",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value58",true);
-                    SoundSettingsEditor.apply();
-                    switch58.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save59",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value59",true);
-                    SoundSettingsEditor.apply();
-                    switch59.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save60",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value60",true);
-                    SoundSettingsEditor.apply();
-                    switch60.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save61",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value61",true);
-                    SoundSettingsEditor.apply();
-                    switch61.setChecked(true);
-
-                    SoundSettingsEditor =getSharedPreferences("save62",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value62",true);
-                    SoundSettingsEditor.apply();
-                    switch62.setChecked(true);
 
                 }
             }
@@ -2049,217 +1900,6 @@ public class ClickerSettings extends AppCompatActivity {
             }
         });
 
-// for switch 53 to activate
-        switch53=findViewById(R.id.switch53);
-        SoundSettings =getSharedPreferences("save53",MODE_PRIVATE);
-        switch53.setChecked(SoundSettings.getBoolean("value53",false));
-        switch53.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch53.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save53",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value53",true);
-                    SoundSettingsEditor.apply();
-                    switch53.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save53",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value53",false);
-                    SoundSettingsEditor.apply();
-                    switch53.setChecked(false);
-                }
-            }
-        });
-
-// for switch 54 to activate
-        switch54=findViewById(R.id.switch54);
-        SoundSettings =getSharedPreferences("save54",MODE_PRIVATE);
-        switch54.setChecked(SoundSettings.getBoolean("value54",false));
-        switch54.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch54.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save54",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value54",true);
-                    SoundSettingsEditor.apply();
-                    switch54.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save54",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value54",false);
-                    SoundSettingsEditor.apply();
-                    switch54.setChecked(false);
-                }
-            }
-        });
-
-// for switch 55 to activate
-        switch55=findViewById(R.id.switch55);
-        SoundSettings =getSharedPreferences("save55",MODE_PRIVATE);
-        switch55.setChecked(SoundSettings.getBoolean("value55",false));
-        switch55.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch55.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save55",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value55",true);
-                    SoundSettingsEditor.apply();
-                    switch55.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save55",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value55",false);
-                    SoundSettingsEditor.apply();
-                    switch55.setChecked(false);
-                }
-            }
-        });
-
-// for switch 56 to activate
-        switch56=findViewById(R.id.switch56);
-        SoundSettings =getSharedPreferences("save56",MODE_PRIVATE);
-        switch56.setChecked(SoundSettings.getBoolean("value56",false));
-        switch56.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch56.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save56",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value56",true);
-                    SoundSettingsEditor.apply();
-                    switch56.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save56",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value56",false);
-                    SoundSettingsEditor.apply();
-                    switch56.setChecked(false);
-                }
-            }
-        });
-
-// for switch 57 to activate
-        switch57=findViewById(R.id.switch57);
-        SoundSettings =getSharedPreferences("save57",MODE_PRIVATE);
-        switch57.setChecked(SoundSettings.getBoolean("value57",false));
-        switch57.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch57.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save57",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value57",true);
-                    SoundSettingsEditor.apply();
-                    switch57.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save57",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value57",false);
-                    SoundSettingsEditor.apply();
-                    switch57.setChecked(false);
-                }
-            }
-        });
-
-// for switch 58 to activate
-        switch58=findViewById(R.id.switch58);
-        SoundSettings =getSharedPreferences("save58",MODE_PRIVATE);
-        switch58.setChecked(SoundSettings.getBoolean("value58",false));
-        switch58.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch58.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save58",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value58",true);
-                    SoundSettingsEditor.apply();
-                    switch58.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save58",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value58",false);
-                    SoundSettingsEditor.apply();
-                    switch58.setChecked(false);
-                }
-            }
-        });
-
-// for switch 59 to activate
-        switch59=findViewById(R.id.switch59);
-        SoundSettings =getSharedPreferences("save59",MODE_PRIVATE);
-        switch59.setChecked(SoundSettings.getBoolean("value59",false));
-        switch59.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch59.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save59",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value59",true);
-                    SoundSettingsEditor.apply();
-                    switch59.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save59",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value59",false);
-                    SoundSettingsEditor.apply();
-                    switch59.setChecked(false);
-                }
-            }
-        });
-
-// for switch 60 to activate
-        switch60=findViewById(R.id.switch60);
-        SoundSettings =getSharedPreferences("save60",MODE_PRIVATE);
-        switch60.setChecked(SoundSettings.getBoolean("value60",false));
-        switch60.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch60.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save60",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value60",true);
-                    SoundSettingsEditor.apply();
-                    switch60.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save60",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value60",false);
-                    SoundSettingsEditor.apply();
-                    switch60.setChecked(false);
-                }
-            }
-        });
-
-// for switch 61 to activate
-        switch61=findViewById(R.id.switch61);
-        SoundSettings =getSharedPreferences("save61",MODE_PRIVATE);
-        switch61.setChecked(SoundSettings.getBoolean("value61",false));
-        switch61.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch61.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save61",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value61",true);
-                    SoundSettingsEditor.apply();
-                    switch61.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save61",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value61",false);
-                    SoundSettingsEditor.apply();
-                    switch61.setChecked(false);
-                }
-            }
-        });
-
-// for switch 62 to activate
-        switch62=findViewById(R.id.switch62);
-        SoundSettings =getSharedPreferences("save62",MODE_PRIVATE);
-        switch62.setChecked(SoundSettings.getBoolean("value62",false));
-        switch62.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(switch62.isChecked()){
-                    SoundSettingsEditor =getSharedPreferences("save62",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value62",true);
-                    SoundSettingsEditor.apply();
-                    switch62.setChecked(true);
-                }else{
-                    SoundSettingsEditor =getSharedPreferences("save62",MODE_PRIVATE).edit();
-                    SoundSettingsEditor.putBoolean("value62",false);
-                    SoundSettingsEditor.apply();
-                    switch62.setChecked(false);
-                }
-            }
-        });
-
-
     }
 
     private void retrievedata(){
@@ -2268,19 +1908,16 @@ public class ClickerSettings extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                AmeliaIMG0.setChecked(true);
+                CocoIMG0.setChecked(true);
                 break;
             case 1:
-                AmeliaIMG1.setChecked(true);
+                CocoIMG1.setChecked(true);
                 break;
             case 2:
-                AmeliaIMG2.setChecked(true);
-                break;
-            case 3:
-                AmeliaIMG3.setChecked(true);
+                CocoIMG2.setChecked(true);
                 break;
             default:
-                AmeliaIMG4.setChecked(true);
+                CocoIMG3.setChecked(true);
                 break;
         }
     }

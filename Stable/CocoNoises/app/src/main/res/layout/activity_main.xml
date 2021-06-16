@@ -87,7 +87,7 @@
             android:id="@+id/image"
             android:layout_width="match_parent"
             android:layout_height="340dp"
-            app:srcCompat="@drawable/amelia0" />
+            app:srcCompat="@drawable/coco0" />
 
         <HorizontalScrollView
             android:layout_width="match_parent"
@@ -142,6 +142,7 @@
                     android:layout_marginRight="10dp"
                     app:cardBackgroundColor="@color/clearhomeicons"
                     app:cardCornerRadius="20dp">
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
@@ -902,165 +903,7 @@
                         android:textColor="@color/porcelain" />
                 </androidx.cardview.widget.CardView>
 
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound51"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise51_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
 
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound52"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise52_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound53"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise53_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound54"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise54_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound55"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise55_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound56"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise56_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound57"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise57_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound58"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise58_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound59"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise59_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:id="@+id/sound60"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_marginRight="10dp"
-                    app:cardBackgroundColor="@color/clearhomeicons"
-                    app:cardCornerRadius="20dp">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="@string/noise60_text"
-                        android:textAlignment="center"
-                        android:textColor="@color/porcelain" />
-                </androidx.cardview.widget.CardView>
 
             </LinearLayout>
         </HorizontalScrollView>

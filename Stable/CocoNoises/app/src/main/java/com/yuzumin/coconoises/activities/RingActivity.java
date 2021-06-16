@@ -42,19 +42,16 @@ public class RingActivity extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                image.setImageResource(R.drawable.amelia0);
+                image.setImageResource(R.drawable.coco0);
                 break;
             case 1:
-                image.setImageResource(R.drawable.amelia1);
+                image.setImageResource(R.drawable.coco1);
                 break;
             case 2:
-                image.setImageResource(R.drawable.amelia2);
-                break;
-            case 3:
-                image.setImageResource(R.drawable.amelia3);
+                image.setImageResource(R.drawable.coco2);
                 break;
             default:
-                image.setImageResource(R.drawable.amelia4);
+                image.setImageResource(R.drawable.coco3);
                 break;
         }
 
