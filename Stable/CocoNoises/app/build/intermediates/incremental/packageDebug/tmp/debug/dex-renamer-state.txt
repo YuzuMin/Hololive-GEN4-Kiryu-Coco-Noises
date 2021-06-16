@@ -1,7 +1,7 @@
-#Wed Jun 09 02:10:44 SGT 2021
-base.0=D\:\\GIT\\VTUBER_NOISES\\HololiveEN-GEN1-Watson-Amelia-Noises\\Stable\\AmeliaNoises\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Wed Jun 16 17:47:21 SGT 2021
+base.0=D\:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\GIT\\VTUBER_NOISES\\HololiveEN-GEN1-Watson-Amelia-Noises\\Stable\\AmeliaNoises\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=D\:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
