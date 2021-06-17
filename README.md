@@ -1,7 +1,7 @@
+# A tribute to Kiryu Coco
+Thank you for everything. ~YuzuMin
+
 # Hololive GEN4 Kiryu Coco Noises
- GitHub Repository for Coco Noises Android App
- 
-# Kiryu Coco Noises
 Coco Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Coco .
 The interface of Coco Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
 
