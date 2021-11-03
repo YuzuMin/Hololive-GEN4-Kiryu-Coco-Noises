@@ -1,0 +1,57 @@
+<resources>
+
+    <!--MainActivity-->
+    <string name = "app_name"> うとノイズ</string>           <!--Needs translations-->
+    <string name = "press_vtuber"> うとを押して！</string>     <!--Needs translations-->
+    <string name = "sit_back">座ってリラックス</string>
+    <!--AppMenu-->
+    <string name = "version">バージョン</string>
+    <string name = "youtube_channel"> YouTubeチャンネル</string>
+    <string name = "channel_tagline"> うと最高！</string> <!--Needs translations-->
+    <string name = "clicker_settings">クリッカー設定</string>
+    <string name = "sounds">サウンド</string>
+    <string name = "downloads">ダウンロード</string>
+    <string name = "information">情報</string>
+    <string name = "more_apps">その他のアプリ</string>
+    <string name = "failedAuth">手動アクティベーションが必要です</string>
+    <string name = "activated">アクティブ化</string>
+    <string name = "settings">設定</string>
+    <string name = "toggle">切り替え</string>
+    <!--Clicker Settings-->
+    <string name = "turn_on_clicker">クリッカーをオンにする</string>
+    <string name = "show_popup_text">ポップアップテキストを表示</string>
+    <string name = "show_button_bar">ボタンバーを表示</string>
+    <string name = "character_settings">文字設定</string>
+    <!--Information-->
+    <string name = "instruction_manual">取扱説明書</string>
+    <string name = "mit_license"> MITライセンス</string>
+    <string name = "release_notes">リリースノート</string>
+    <!--InfoReader-->
+    <string name = "instruction_manual_text"> 1。アプリの使用方法 \n
+                            画面の指示に従って、文字をクリックするだけです。\n
+                            \n
+                            2.自動クリック\n
+                            「うとを押してください」という単語をタップすると、テキストは「座ってリラックス」になります。これにより、アプリはランダムノイズを継続的に自動再生できます\n
+                            \n
+                            3.アセットをダウンロード\n
+                            [設定]メニューに移動すると、[ダウンロード]というボタンが表示されます。ここでオーディオ、画像、ビデオを見ることができます\n
+                            \n
+                            4.開発者モード\ n
+                            開発者モードのロックを解除するには、[設定]に移動して[バージョン]を7回以上タップします。開発者モードでは、現在開発中の不安定な機能のロックを解除するだけです\n
+                            \n
+                            \n</string><!--Needs translations-->
+    <string name = "release_notes_text"> / ***削除された機能*** / \n
+                                    •開発者モード\目覚まし時計（Androidの非互換性） 目覚まし時計（Androidの非互換性） \n
+                                    \n
+                                    \n
+                                    / ***修正*** / \n
+                                    •新しいランダマイザー\n
+                                    •ポップアップテキストエラー\n
+                                    \n
+                                    \n</string>
+    <string name = "error">エラー</string>
+    <string name = "error_text">おっと何かがうまくいかなかったに違いない</string>
+
+
+
+</resources>

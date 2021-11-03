@@ -20,6 +20,7 @@ import androidx.navigation.Navigation;
 import com.yuzumin.coconoises.R;
 import com.yuzumin.coconoises.data.Alarm;
 
+import java.util.Objects;
 import java.util.Random;
 
 import butterknife.BindView;
@@ -70,7 +71,7 @@ public class CreateAlarmFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 scheduleAlarm();
-                Navigation.findNavController(v).navigate(R.id.action_createAlarmFragment_to_alarmsListFragment);
+                Navigation.findNavController(v).popBackStack();     //finish fragment
             }
         });
 

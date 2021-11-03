@@ -1,0 +1,54 @@
+<resources>
+    <!--MainActivity-->
+    <string name="app_name">Uto声音</string>      <!--Needs translations-->
+    <string name="press_vtuber">按Uto!</string>   <!--Needs translations-->
+    <string name="sit_back">坐下来放松一下</string>
+    <!--AppMenu-->
+    <string name="version">版本</string>
+    <string name="youtube_channel">Youtube 频道</string>APP
+    <string name="channel_tagline">Uto 最棒!</string>         <!--Needs translations-->
+    <string name="clicker_settings">按钮设置</string>
+    <string name="sounds">声音</string>
+    <string name="downloads">下载</string>
+    <string name="information">资料</string>
+    <string name="more_apps">更多类似APP</string>
+    <string name="failedAuth">认证不成功</string>
+    <string name="activated">认证成功</string>
+    <string name="settings">设置</string>
+    <string name="toggle">切换</string>
+    <!--Clicker Settings-->
+    <string name="turn_on_clicker">激活Yagoo按钮</string>
+    <string name="show_popup_text">显示弹出文本</string>
+    <string name="show_button_bar">显示按钮栏</string>
+    <string name="character_settings">角色设置</string>
+    <!--Information-->
+    <string name="instruction_manual">使用说明书</string>
+    <string name="mit_license">MIT许可证(英文版)</string>
+    <string name="release_notes">发行说明</string>
+    <!--InfoReader-->
+    <string name="instruction_manual_text">1. 如何使用应用程序 \n
+                        只需按照屏幕上的说明操作，然后单击字符即可。\n
+                        \n
+                        2. 自动点击 \n
+                        点击“按Uto”字样，文字就会变成 \"坐下来放松一下\". 这将允许应用程序连续自动播放随机噪音\n
+                        \n
+                        3. 下载资产\n
+                        转到“设置”菜单，您将看到一个显示“下载”的按钮。 您可以在此处进行音频、图像和视频。\n
+                        \n
+                        4. 开发者模式\n
+                        要解锁开发者模式，转到设置点按版本至少 7 次，开发者模式仅解锁当前正在开发的不稳定功能。\n
+                        \n
+                        \n</string> <!--Needs translations-->
+    <string name="release_notes_text">/***删除的功能***/\n
+                                •闹钟（安卓不兼容） \n
+                                \n
+                                \n
+                                /***修复***/\n
+                                •新随机化器\n
+                                •弹出文本错误\n
+                                \n
+                                \n</string>
+    <string name="error">差错</string>
+    <string name="error_text">哎呀一定是出了什么问题</string>
+
+</resources>

@@ -10,11 +10,13 @@ import androidx.room.SharedSQLiteStatement;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
+import java.lang.Class;
 import java.lang.Exception;
 import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.Callable;
 
@@ -264,7 +266,11 @@ public final class AlarmDao_Impl implements AlarmDao {
             _tmp_8 = _cursor.getInt(_cursorIndexOfSunday);
             _tmpSunday = _tmp_8 != 0;
             final String _tmpTitle;
-            _tmpTitle = _cursor.getString(_cursorIndexOfTitle);
+            if (_cursor.isNull(_cursorIndexOfTitle)) {
+              _tmpTitle = null;
+            } else {
+              _tmpTitle = _cursor.getString(_cursorIndexOfTitle);
+            }
             final long _tmpCreated;
             _tmpCreated = _cursor.getLong(_cursorIndexOfCreated);
             _item = new Alarm(_tmpAlarmId,_tmpHour,_tmpMinute,_tmpTitle,_tmpCreated,_tmpStarted,_tmpRecurring,_tmpMonday,_tmpTuesday,_tmpWednesday,_tmpThursday,_tmpFriday,_tmpSaturday,_tmpSunday);
@@ -281,5 +287,9 @@ public final class AlarmDao_Impl implements AlarmDao {
         _statement.release();
       }
     });
+  }
+
+  public static List<Class<?>> getRequiredConverters() {
+    return Collections.emptyList();
   }
 }

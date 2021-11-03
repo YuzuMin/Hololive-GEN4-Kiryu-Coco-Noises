@@ -32,12 +32,12 @@
         "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\raw_coconoise32.mp3.flat",
-        "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\raw\\coconoise32.mp3"
-    },
-    {
         "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abt_playstore.webp.flat",
         "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\drawable\\abt_playstore.webp"
+    },
+    {
+        "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\raw_coconoise32.mp3.flat",
+        "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\raw\\coconoise32.mp3"
     },
     {
         "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
@@ -224,12 +224,12 @@
         "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\raw\\coconoise13.mp3"
     },
     {
-        "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\raw_coconoise21.mp3.flat",
-        "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\raw\\coconoise21.mp3"
-    },
-    {
         "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.webp.flat",
         "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\drawable\\logo.webp"
+    },
+    {
+        "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\raw_coconoise21.mp3.flat",
+        "source": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\src\\main\\res\\raw\\coconoise21.mp3"
     },
     {
         "merged": "D:\\GIT\\VTUBER_NOISES\\Hololive-GEN4-Kiryu-Coco-Noises\\Stable\\CocoNoises\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abt_back.webp.flat",

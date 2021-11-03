@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/darkblvck"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AppMenu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:paddingHorizontal="20dp"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/back_btn"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/back"
+                android:layout_width="40dp"
+                android:layout_height="40dp"/>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="5dp"
+                android:fontFamily="sans-serif-thin"
+                android:text="@string/settings"
+                android:textAlignment="viewStart"
+                android:textColor="@color/porcelain"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="20dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:minHeight="512dp"
+                    android:minWidth="512dp"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/app_youtube"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        app:cardCornerRadius="15dp">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/bg0"
+                                android:scaleType="centerCrop"/>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@color/blvck"
+                                android:backgroundTint="#BF000000"
+                                android:backgroundTintMode="src_in"
+                                android:padding="10dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:fontFamily="sans-serif-medium"
+                                        android:text="@string/youtube_channel"
+                                        android:textAlignment="textStart"
+                                        android:textColor="@color/porcelain"
+                                        android:textSize="15sp" />
+
+                                    <Space
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1" />
+
+                                    <androidx.cardview.widget.CardView
+                                        android:layout_width="90dp"
+                                        android:layout_height="90dp"
+                                        app:cardBackgroundColor="@color/blvck"
+                                        app:cardCornerRadius="45dp">
+
+                                        <ImageView
+                                            android:layout_width="90dp"
+                                            android:layout_height="90dp"
+                                            app:srcCompat="@drawable/youtubechannel" />
+                                    </androidx.cardview.widget.CardView>
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:fontFamily="sans-serif-medium"
+                                        android:text="@string/youtubeChannelName"
+                                        android:textAlignment="textStart"
+                                        android:textColor="@color/porcelain"
+                                        android:textSize="15sp" />
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:fontFamily="sans-serif-medium"
+                                        android:text="@string/channel_tagline"
+                                        android:textAlignment="textStart"
+                                        android:textColor="@color/darkporcelain" />
+                                </LinearLayout>
+
+                            </LinearLayout>
+                        </RelativeLayout>
+
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+
+
+
+                <Space
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content" />
+
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/app_version"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:cardBackgroundColor="@color/blvck"
+                        app:cardCornerRadius="15dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="10dp">
+
+                            <LinearLayout
+                                android:layout_marginVertical="5dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+
+                                <TextView
+                                    android:layout_marginBottom="5dp"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="sans-serif-medium"
+                                    android:textAlignment="textStart"
+                                    android:textColor="@color/porcelain"
+                                    android:text="@string/version"
+                                    android:textSize="15sp" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="sans-serif-medium"
+                                    android:text="@string/app_version"
+                                    android:textAlignment="textStart"
+                                    android:textColor="@color/darkporcelain"
+                                    android:textSize="13sp" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/notification_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        app:cardBackgroundColor="@color/warningColor"
+                        app:cardCornerRadius="15dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="10dp">
+
+                            <LinearLayout
+
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:id="@+id/notification_image"
+                                    android:layout_gravity="center"
+                                    android:layout_width="256dp"
+                                    android:layout_height="90dp"
+                                    android:padding="10dp"
+                                    app:srcCompat="@drawable/cross" />
+
+                                <TextView
+                                    android:id="@+id/notification_text"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="sans-serif-medium"
+                                    android:text="@string/failedAuth"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/blvck"
+                                    android:textSize="13sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/clicker"
+                android:paddingVertical="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/settings" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/clicker_settings"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/porcelain"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="@color/porcelain" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sounds"
+                android:paddingVertical="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/sound" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/sounds"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/porcelain"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="@color/porcelain" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/app_downloads"
+                android:paddingVertical="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/download" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/downloads"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/porcelain"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="@color/porcelain" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/app_legal"
+                android:paddingVertical="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/info" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/information"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/porcelain"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="@color/porcelain" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/more_apps"
+                android:paddingVertical="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_gravity="center"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/playstore" />
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/more_apps"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/porcelain"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:textAlignment="center"
+                    android:textColor="@color/porcelain" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

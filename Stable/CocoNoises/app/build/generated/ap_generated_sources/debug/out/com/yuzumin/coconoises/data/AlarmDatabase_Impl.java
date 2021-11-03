@@ -14,11 +14,14 @@ import androidx.sqlite.db.SupportSQLiteDatabase;
 import androidx.sqlite.db.SupportSQLiteOpenHelper;
 import androidx.sqlite.db.SupportSQLiteOpenHelper.Callback;
 import androidx.sqlite.db.SupportSQLiteOpenHelper.Configuration;
+import java.lang.Class;
 import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 @SuppressWarnings({"unchecked", "deprecation"})
@@ -133,6 +136,13 @@ public final class AlarmDatabase_Impl extends AlarmDatabase {
         _db.execSQL("VACUUM");
       }
     }
+  }
+
+  @Override
+  protected Map<Class<?>, List<Class<?>>> getRequiredTypeConverters() {
+    final HashMap<Class<?>, List<Class<?>>> _typeConvertersMap = new HashMap<Class<?>, List<Class<?>>>();
+    _typeConvertersMap.put(AlarmDao.class, AlarmDao_Impl.getRequiredConverters());
+    return _typeConvertersMap;
   }
 
   @Override
