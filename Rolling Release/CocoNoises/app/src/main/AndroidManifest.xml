@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yuzumin.utonoises">
+    package="com.yuzumin.coconoises">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -13,15 +13,15 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="com.yuzumin.utonoises.SoundSettings"
+            android:name="com.yuzumin.coconoises.SoundSettings"
             android:screenOrientation="portrait"
             android:exported="true" />
         <activity
-            android:name="com.yuzumin.utonoises.MainActivity"
+            android:name="com.yuzumin.coconoises.MainActivity"
             android:screenOrientation="portrait" />
         <activity
             android:exported="true"
-            android:name="com.yuzumin.utonoises.Splash"
+            android:name="com.yuzumin.coconoises.Splash"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,16 +30,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.yuzumin.utonoises.LegalInfo"
+            android:name="com.yuzumin.coconoises.LegalInfo"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.utonoises.InfoReader"
+            android:name="com.yuzumin.coconoises.InfoReader"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.utonoises.AppMenu"
+            android:name="com.yuzumin.coconoises.AppMenu"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.yuzumin.utonoises.ClickerSettings"
+            android:name="com.yuzumin.coconoises.ClickerSettings"
             android:screenOrientation="portrait" />
 
 

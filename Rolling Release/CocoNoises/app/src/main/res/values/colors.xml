@@ -15,7 +15,7 @@
     <color name="darkblvck">#121212</color>
     <color name="porcelain">#F3F3F3</color>
     <color name="darkporcelain">#ACACAC</color>
-    <color name="button">#54CAFF</color>
+    <color name="button">#F17954</color>
     <color name="clearbutton">#A954CAFF</color>
     <color name="cardBackgroundColor">#A9101010</color>
     <color name="warningColor">#FF8080</color>
@@ -25,5 +25,4 @@
     <color name="light_blue_600">#FF039BE5</color>
     <color name="light_blue_900">#FF01579B</color>
     <color name="clearhomeicons">#FF1f1f1f</color>
-
 </resources>

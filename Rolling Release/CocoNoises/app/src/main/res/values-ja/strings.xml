@@ -1,13 +1,13 @@
 <resources>
 
     <!--MainActivity-->
-    <string name = "app_name"> うとノイズ</string>           <!--Needs translations-->
-    <string name = "press_vtuber"> うとを押して！</string>     <!--Needs translations-->
+    <string name = "app_name">"ココノイズ"</string>           <!--Needs translations-->
+    <string name = "press_vtuber">"ココを押して！"</string>     <!--Needs translations-->
     <string name = "sit_back">座ってリラックス</string>
     <!--AppMenu-->
     <string name = "version">バージョン</string>
     <string name = "youtube_channel"> YouTubeチャンネル</string>
-    <string name = "channel_tagline"> うと最高！</string> <!--Needs translations-->
+    <string name = "channel_tagline">"ありがとうココ "</string> <!--Needs translations-->
     <string name = "clicker_settings">クリッカー設定</string>
     <string name = "sounds">サウンド</string>
     <string name = "downloads">ダウンロード</string>
@@ -31,7 +31,7 @@
                             画面の指示に従って、文字をクリックするだけです。\n
                             \n
                             2.自動クリック\n
-                            「うとを押してください」という単語をタップすると、テキストは「座ってリラックス」になります。これにより、アプリはランダムノイズを継続的に自動再生できます\n
+                            「ココを押して！」という単語をタップすると、テキストは「座ってリラックス」になります。これにより、アプリはランダムノイズを継続的に自動再生できます\n
                             \n
                             3.アセットをダウンロード\n
                             [設定]メニューに移動すると、[ダウンロード]というボタンが表示されます。ここでオーディオ、画像、ビデオを見ることができます\n

@@ -5,16 +5,34 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/layout"
+    android:background="@color/darkblvck"
     tools:context=".Splash">
-
-    <VideoView
-        android:id="@+id/SplashVideo"
+    <LinearLayout
+        android:background="@color/darkblvck"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:foregroundGravity="center"
+        android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:background="@color/darkblvck"
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginBottom="15dp"
+            app:srcCompat="@drawable/logo" />
+
+        <TextView
+            android:background="@color/darkblvck"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thank you for everything Coco!"
+            android:textAlignment="center"
+            android:textColor="@color/porcelain"
+            android:textSize="21dp" />
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
