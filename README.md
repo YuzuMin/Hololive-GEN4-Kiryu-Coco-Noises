@@ -12,11 +12,10 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.coconois
 
 # Features
 * 50 Noises
-* Alarm Clock
-* Google Drive Download
+* GitHub Download
 
 # License
-GNU General Public License V3
+MIT License
 
 # List of Noises
 * coconoise1  Yagoo!
